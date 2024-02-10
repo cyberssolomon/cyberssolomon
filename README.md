@@ -38,8 +38,10 @@
 
 <h2>👨‍💻 Certificates:</h2>
 
-- <b>[Emory University -Fundamentals Of Cybersecurity And Information Security](https://i.imgur.com/wLjvAKa.jpeg)</b>
-  
+- <b>Emory University -Fundamentals Of Cybersecurity And Information Security</b>
+- <b>NIST Risk Management Framework for Systems and Organizations</b>
+- <b>Datacom Cybersecurity Job Simulation-Forage</b>
+- <b>Mastercard Cybersecurity Job Simulation-Forage</b>
     
 
 
