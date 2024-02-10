@@ -23,7 +23,7 @@
   - <b>Section 3</b>
     - [Scan the Domain Controller with Nmap](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main#scan-the-domain-controller-with-nmap)
     - [Scan the Domain Controller with Nessus](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main#scan-the-domain-controller-with-nessus)
-    - Prepare a Penetration Test Report
+    - [Prepare a Penetration Test Report](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main#prepare-a-penetration-test-report-1)
 
 - <b>[Performing Packet Capture and Traffic Analysis</b>](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis)
   - <b>Section 1</b>
