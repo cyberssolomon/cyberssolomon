@@ -14,7 +14,7 @@
 - <b>[Performing a Vulnerability Assessment](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main)</b>
   - <b>Section 1</b>
     - [Scan the Network with Zenmap](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main#scan-the-network-with-zenmap)
-    - Conduct a Vulnerability Scan with Nessus
+    - [Conduct a Vulnerability Scan with Nessus](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main?tab=readme-ov-file#conduct-a-vulnerability-scan-with-nessus)
     - Evaluate Findings
   - <b>Section 2</b>
     - Scan the Network with Nmap
