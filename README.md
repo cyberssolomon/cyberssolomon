@@ -10,7 +10,7 @@
     - [Explore the WAN Domain](https://github.com/joshmadakor1/Algorithms-Practice)
     - [Explore the Remote Access Domain](https://github.com/joshmadakor1/Algorithms-Practice)
     - [Explore the System/Application Domain](https://github.com/joshmadakor1/Algorithms-Practice)
-  - 
+   
 - <b>Performing a Vulnerability Assessment</b>
   - <b>Section 1</b>
     - [Scan the Network with Zenmap](https://github.com/joshmadakor1/Algorithms-Practice)
