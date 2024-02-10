@@ -31,7 +31,7 @@
     - [Analyze Traffic Using Wireshark](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis/blob/main/README.md#analyze-traffic-using-wireshark)
   - <b>Section 2</b>
     - [Configure Wireshark and Generate Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis/blob/main/README.md#configure-wireshark-and-generate-network-traffic-1)
-    - Analyze Traffic Using Wireshark
+    - [Analyze Traffic Using Wireshark](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis/blob/main/README.md#analyze-traffic-using-wireshark-1)
   - <b>Section 3</b>
     - Generate Malicious Network Traffic
     - Analyze Malicious Network Traffic
