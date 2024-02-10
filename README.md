@@ -3,7 +3,7 @@
 
 - <b>[Explore the Seven Domains of a Typical IT Infrastructure](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure)</b>
   - <b>Section 1</b>
-    - [Explore the Work Station Domain](https://github.com/joshmadakor1/Algorithms-Practice)
+    - [Explore the Work Station Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#:~:text=Explore%20the%20Workstation%20Domain)
     - [Explore the LAN Domain](https://github.com/joshmadakor1/Algorithms-Practice)
     - [Explore the LAN-to-WAN Domain](https://github.com/joshmadakor1/Algorithms-Practice)
   - <b>Section 2</b>
