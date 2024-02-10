@@ -11,7 +11,7 @@
     - Explore the Remote Access Domain
     - Explore the System/Application Domain
    
-- <b>Performing a Vulnerability Assessment</b>
+- <b>[Performing a Vulnerability Assessment](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment/tree/main)</b>
   - <b>Section 1</b>
     - Scan the Network with Zenmap
     - Conduct a Vulnerability Scan with Nessus
