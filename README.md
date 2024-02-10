@@ -38,7 +38,7 @@
 
 <h2>👨‍💻 Certificates:</h2>
 
-- <b>[Emory University -Fundamentals Of Cybersecurity And Information Security](https://i.imgur.com/wLjvAKa.jpeg))</b>
+- <b>[Emory University -Fundamentals Of Cybersecurity And Information Security](https://i.imgur.com/wLjvAKa.jpeg)</b>
   
     
 
