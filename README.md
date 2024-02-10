@@ -3,13 +3,13 @@
 
 - <b>[Explore the Seven Domains of a Typical IT Infrastructure](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure)</b>
   - <b>Section 1</b>
-    - [Explore the Work Station Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#:~:text=Explore%20the%20Workstation%20Domain)
-    - [Explore the LAN Domain](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Explore the LAN-to-WAN Domain](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Explore the Work Station Domain
+    - Explore the LAN Domain
+    - Explore the LAN-to-WAN Domain
   - <b>Section 2</b>
-    - [Explore the WAN Domain](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Explore the Remote Access Domain](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Explore the System/Application Domain](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Explore the WAN Domain
+    - Explore the Remote Access Domain
+    - Explore the System/Application Domain
    
 - <b>Performing a Vulnerability Assessment</b>
   - <b>Section 1</b>
