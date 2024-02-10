@@ -25,7 +25,7 @@
     - Scan the Domain Controller with Nessus
     - Prepare a Penetration Test Report
 
-- <b>Performing Packet Capture and Traffic Analysis</b>
+- <b>[Performing Packet Capture and Traffic Analysis</b>](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis)
   - <b>Section 1</b>
     - Configure Wireshark and Generate Network Traffic
     - Analyze Traffic Using Wireshark
