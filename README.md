@@ -13,29 +13,28 @@
    
 - <b>Performing a Vulnerability Assessment</b>
   - <b>Section 1</b>
-    - [Scan the Network with Zenmap](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Conduct a Vulnerability Scan with Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Evaluate Findings](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Scan the Network with Zenmap
+    - Conduct a Vulnerability Scan with Nessus
+    - Evaluate Findings
   - <b>Section 2</b>
-    - [Scan the Network with Nmap](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Conduct a Vulnerability Scan with OpenVAS](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Prepare a Penetration Test Report](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Scan the Network with Nmap
+    - Conduct a Vulnerability Scan with OpenVAS
+    - Prepare a Penetration Test Report
   - <b>Section 3</b>
-    - [Scan the Domain Controller with Nmap](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Scan the Domain Controller with Nessus](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Prepare a Penetration Test Report](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Scan the Domain Controller with Nmap
+    - Scan the Domain Controller with Nessus
+    - Prepare a Penetration Test Report
 
 - <b>Performing Packet Capture and Traffic Analysis</b>
   - <b>Section 1</b>
-    - [Configure Wireshark and Generate Network Traffic](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Analyze Traffic Using Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Configure Wireshark and Generate Network Traffic
+    - Analyze Traffic Using Wireshark
   - <b>Section 2</b>
-    - [Configure Wireshark and Generate Network Traffic](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Analyze Traffic Using Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
+    - Configure Wireshark and Generate Network Traffic
+    - Analyze Traffic Using Wireshark
   - <b>Section 3</b>
-    - [Generate Malicious Network Traffic](https://github.com/joshmadakor1/Algorithms-Practice)
-    - [Analyze Malicious Network Traffic](https://github.com/joshmadakor1/Algorithms-Practice)
-    
+    - Generate Malicious Network Traffic
+    - Analyze Malicious Network Traffic
 
 <h2>👨‍💻 Certificates:</h2>
   
