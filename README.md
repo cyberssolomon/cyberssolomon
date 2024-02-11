@@ -47,7 +47,7 @@
     - [Verify Access Controls](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#verify-access-controls)
   - <b>Section 3</b>
     - [Create Users and Security Groups](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#create-users-and-security-groups-1)
-    - [Create Shared Folders and Configure ACLs]()
+    - [Create Shared Folders and Configure ACLs](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#create-shared-folders-and-configure-acls-1)
     - [Verify Authentication and Access Controls]()
 
 
