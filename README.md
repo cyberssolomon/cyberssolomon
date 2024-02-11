@@ -36,6 +36,21 @@
     - [Generate Malicious Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis/blob/main/README.md#generate-malicious-network-traffic)
     - [Analyze Malicious Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis/blob/main/README.md#analyze-malicious-network-traffic)
 
+- <b>[Applying User Authentication and Access Controls</b>]()
+  - <b>Section 1</b>
+    - [Create Users and Security Groups]()
+    - [Create Folders and Configure Security Permissions]()
+    - [Verify Authentication and Access Controls]()
+  - <b>Section 2</b>
+    - [Create an SMB Share]()
+    - [Create Shared Folders and Configure ACLs]()
+    - [Verify Access Controls]()
+  - <b>Section 3</b>
+    - [Create Users and Security Groups]()
+    - [Create Shared Folders and Configure ACLs]()
+    - [Verify Authentication and Access Controls]()
+
+
 <h2>👨‍💻 Certificates:</h2>
 
 - <b>Emory University -Fundamentals Of Cybersecurity And Information Security</b>
