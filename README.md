@@ -50,6 +50,20 @@
     - [Create Shared Folders and Configure ACLs](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#create-shared-folders-and-configure-acls-1)
     - [Verify Authentication and Access Controls](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#verify-authentication-and-access-controls-1)
 
+  - <b>[Using Encryption to Enhance Confidentiality and Integrity</b>]()
+  - <b>Section 1</b>
+    - [Create and Exchange Asymmetric Encryption Keys]()
+    - [Encrypt a File Using Asymmetric Encryption]()
+    - [Decrypt a File Using Asymmetric Encryption]()
+  - <b>Section 2</b>
+    - [Create an Asymmetric Key Pair]()
+    - [Encrypt a File Using Symmetric Encryption]()
+    - [Transfer and Decrypt a File Using Hybrid Cryptography]()
+  - <b>Section 3</b>
+    - [Digitally Sign a Document Using GPG]()
+   
+
+
 
 <h2>👨‍💻 Certificates:</h2>
 
