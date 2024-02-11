@@ -40,7 +40,7 @@
   - <b>Section 1</b>
     - [Create Users and Security Groups](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#create-users-and-security-groups)
     - [Create Folders and Configure Security Permissions](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#create-folders-and-configure-security-permissions)
-    - [Verify Authentication and Access Controls]()
+    - [Verify Authentication and Access Controls](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls/blob/main/README.md#verify-authentication-and-access-controls)
   - <b>Section 2</b>
     - [Create an SMB Share]()
     - [Create Shared Folders and Configure ACLs]()
