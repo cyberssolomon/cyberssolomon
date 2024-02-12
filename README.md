@@ -61,6 +61,14 @@
       - [Transfer and Decrypt a File Using Hybrid Cryptography](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/blob/main/README.md#transfer-and-decrypt-a-file-using-hybrid-cryptology)
     - <b>Section 3</b>
       - [Digitally Sign a Document Using GPG](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/blob/main/README.md#digitally-sign-a-document-using-gpg)
+
+ - <b>[Assessing Common Attack Vectors</b>]()
+    - <b>Section 1</b>
+      - [Perform an Injection Attack]()
+      - [Perform a Malware Attack]()
+    - <b>Section 2</b>
+      - [Perform a Distributed Denial-of-Service Attack]()
+      - [Perform a Social Engineering Attack]()
    
 
 
