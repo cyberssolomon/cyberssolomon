@@ -1,4 +1,4 @@
-<h1>Hi, I'm Shakeia! <br/><a href="https://github.com/cyberssolomon"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a> 
+<h1>Hi, I'm Shakeia! <br/><a href="https://github.com/cyberssolomon"></a> <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Scholar</a> 
 <h2>👨‍💻 Cybersecurity  Projects:</h2>
 
 - <b>[Explore the Seven Domains of a Typical IT Infrastructure](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure)</b>
