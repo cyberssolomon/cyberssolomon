@@ -67,7 +67,7 @@
       - [Perform an Injection Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-an-injection-attack)
       - [Perform a Malware Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-a-malware-attack)
     - <b>Section 2</b>
-      - [Perform a Distributed Denial-of-Service Attack]()
+      - [Perform a Distributed Denial-of-Service Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-a-distributed-denial-of-service-attack)
       - [Perform a Social Engineering Attack]()
    
 
