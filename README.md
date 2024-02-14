@@ -62,7 +62,7 @@
     - <b>Section 3</b>
       - [Digitally Sign a Document Using GPG](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity/blob/main/README.md#digitally-sign-a-document-using-gpg)
 
- - <b>[Assessing Common Attack Vectors</b>](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors)
+ - <b>[Assessing Common Attack Vectors</b>](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#assessing-common-attack-vectors)
     - <b>Section 1</b>
       - [Perform an Injection Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-an-injection-attack)
       - [Perform a Malware Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-a-malware-attack)
