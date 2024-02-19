@@ -15,7 +15,7 @@
   - <b>Section 1</b>
     - [Scan the Network with Zenmap](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#scan-the-network-with-zenmap)
     - [Conduct a Vulnerability Scan with Nessus](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#conduct-a-vulnerability-scan-with-nessus)
-    - [Evaluate Findings]()
+    - [Evaluate Findings](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#evaluate-your-findings)
   - <b>Section 2</b>
     - [Scan the Network with Nmap]()
     - [Conduct a Vulnerability Scan with OpenVAS]()
