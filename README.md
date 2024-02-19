@@ -97,7 +97,7 @@
       - [Verify Load Balancing](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#verify-load-balancing)
     - <b>Section 3</b>
       - [Add Failover Functionality](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#add-failover-functionality)
-      - [Validate Failover Functionality]()
+      - [Validate Failover Functionality](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#validate-failover-functionality)
      
   - <b>[Performing Incident Response and Forensic Analysis</b>]()
     - <b>Section 1</b>
