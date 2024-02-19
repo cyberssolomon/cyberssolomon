@@ -93,7 +93,7 @@
       - [Restore from a System State Backup](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#restore-from-a-system-state-backup)
     - <b>Section 2</b>
       - [Configure an NFS Share](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#configure-an-nfs-share)
-      - [Configure Load Balancing]()
+      - [Configure Load Balancing](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#configure-load-balancing)
       - [Verify Load Balancing]()
     - <b>Section 3</b>
       - [Add Failover Functionality]()
