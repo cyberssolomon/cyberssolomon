@@ -75,7 +75,7 @@
       - [Implement a Password Protection Policy](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy#implement-a-password-protection-policy)
       - [Implement an Antivirus Policy](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy#implement-an-antivirus-policy)
     - <b>Section 2</b>
-      - [Apply a Windows Security Baseline]()
+      - [Apply a Windows Security Baseline](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy#apply-a-windows-security-baseline)
       - [Implement a Mobile Device Security Policy]()
 
   - <b>[Implementing Security Monitoring and Logging</b>]()
