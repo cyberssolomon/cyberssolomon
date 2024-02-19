@@ -34,7 +34,7 @@
     - [Analyze Traffic Using Wireshark](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis#analyze-traffic-using-wireshark-1)
   - <b>Section 3</b>
     - [Generate Malicious Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis#generate-malicious-network-traffic)
-    - [Analyze Malicious Network Traffic]()
+    - [Analyze Malicious Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis#analyze-malicious-network-traffic)
 
 - <b>[Applying User Authentication and Access Controls</b>]()
   - <b>Section 1</b>
