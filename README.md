@@ -22,7 +22,7 @@
     - [Prepare a Penetration Test Report](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#prepare-a-penetration-test-report)
   - <b>Section 3</b>
     - [Scan the Domain Controller with Nmap](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#scan-the-domain-controller-with-nmap)
-    - [Scan the Domain Controller with Nessus]()
+    - [Scan the Domain Controller with Nessus](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#scan-the-domain-controller-with-nessus)
     - [Prepare a Penetration Test Report]()
 
 - <b>[Performing Packet Capture and Traffic Analysis</b>]()
