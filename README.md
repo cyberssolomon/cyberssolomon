@@ -99,7 +99,7 @@
       - [Add Failover Functionality](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#add-failover-functionality)
       - [Validate Failover Functionality](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#validate-failover-functionality)
      
-  - <b>[Performing Incident Response and Forensic Analysis</b>]()
+  - <b>[Performing Incident Response and Forensic Analysis</b>](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis)
     - <b>Section 1</b>
       - [Analyze a PCAP File for Forensic Evidence]()
       - [Analyze a Disk Image for Forensic Evidence]()
