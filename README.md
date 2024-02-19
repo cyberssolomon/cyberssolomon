@@ -60,7 +60,7 @@
       - [Encrypt a File Using Symmetric Encryption](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#encrypt-a-file-using-symmetric-encryption)
       - [Transfer and Decrypt a File Using Hybrid Cryptography](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#transfer-and-decrypt-a-file-using-hybrid-cryptology)
     - <b>Section 3</b>
-      - [Digitally Sign a Document Using GPG]()
+      - [Digitally Sign a Document Using GPG](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#digitally-sign-a-document-using-gpg)
 
  - <b>[Assessing Common Attack Vectors</b>]()
     - <b>Section 1</b>
