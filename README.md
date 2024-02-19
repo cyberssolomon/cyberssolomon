@@ -36,7 +36,7 @@
     - [Generate Malicious Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis#generate-malicious-network-traffic)
     - [Analyze Malicious Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis#analyze-malicious-network-traffic)
 
-- <b>[Applying User Authentication and Access Controls</b>]()
+- <b>[Applying User Authentication and Access Controls</b>](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls)
   - <b>Section 1</b>
     - [Create Users and Security Groups]()
     - [Create Folders and Configure Security Permissions]()
