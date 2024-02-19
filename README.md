@@ -5,7 +5,7 @@
   - <b>Section 1</b>
     - [Explore the Work Station Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-workstation-domain)
     - [Explore the LAN Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-lan-domain)
-    - [Explore the LAN-to-WAN Domain]()
+    - [Explore the LAN-to-WAN Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-lan-to-wan-domain)
   - <b>Section 2</b>
     - [Explore the WAN Domain]()
     - [Explore the Remote Access Domain]()
