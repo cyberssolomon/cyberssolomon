@@ -94,7 +94,7 @@
     - <b>Section 2</b>
       - [Configure an NFS Share](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#configure-an-nfs-share)
       - [Configure Load Balancing](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#configure-load-balancing)
-      - [Verify Load Balancing]()
+      - [Verify Load Balancing](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions#verify-load-balancing)
     - <b>Section 3</b>
       - [Add Failover Functionality]()
       - [Validate Failover Functionality]()
