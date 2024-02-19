@@ -102,7 +102,7 @@
   - <b>[Performing Incident Response and Forensic Analysis</b>](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis)
     - <b>Section 1</b>
       - [Analyze a PCAP File for Forensic Evidence](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis#analyze-a-pcap-file-for-forensic-evidence)
-      - [Analyze a Disk Image for Forensic Evidence]()
+      - [Analyze a Disk Image for Forensic Evidence](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis#analyze-a-disk-image-for-forensic-evidence)
       - [Prepare an Incident Response Report]()
     - <b>Section 2</b>
       - [Identify Additional Email Evidence]()
