@@ -84,7 +84,7 @@
       - [Monitor Network Activity with Snort](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#monitor-network-activity-with-snort)
     - <b>Section 2</b>
       - [Identify Failed Logon Attempts on Linux Systems](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#identify-failed-logon-attempts-on-linux-systems)
-      - [Monitor File Integrity with Tripwire]()
+      - [Monitor File Integrity with Tripwire](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#monitor-file-integrity-with-tripwire)
 
   - <b>[Configuring Backup and Recovery Functions</b>]()
     - <b>Section 1</b>
