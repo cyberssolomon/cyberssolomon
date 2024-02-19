@@ -80,7 +80,7 @@
 
   - <b>[Implementing Security Monitoring and Logging</b>](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging)
     - <b>Section 1</b>
-      - [Identify Failed Logon Attempts on Windows Systems]()
+      - [Identify Failed Logon Attempts on Windows Systems](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#identify-failed-logon-attempts-on-windows-systems)
       - [Monitor Network Activity with Snort]()
     - <b>Section 2</b>
       - [Identify Failed Logon Attempts on Linux Systems]()
