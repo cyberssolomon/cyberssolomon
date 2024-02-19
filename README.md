@@ -11,7 +11,7 @@
     - [Explore the Remote Access Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-remote-access-domain)
     - [Explore the System/Application Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-systemapplication-domain)
    
-- <b>[Performing a Vulnerability Assessment]()</b>
+- <b>[Performing a Vulnerability Assessment](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment)</b>
   - <b>Section 1</b>
     - [Scan the Network with Zenmap]()
     - [Conduct a Vulnerability Scan with Nessus]()
