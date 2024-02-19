@@ -81,7 +81,7 @@
   - <b>[Implementing Security Monitoring and Logging</b>](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging)
     - <b>Section 1</b>
       - [Identify Failed Logon Attempts on Windows Systems](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#identify-failed-logon-attempts-on-windows-systems)
-      - [Monitor Network Activity with Snort]()
+      - [Monitor Network Activity with Snort](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#monitor-network-activity-with-snort)
     - <b>Section 2</b>
       - [Identify Failed Logon Attempts on Linux Systems]()
       - [Monitor File Integrity with Tripwire]()
