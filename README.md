@@ -53,7 +53,7 @@
  - <b>[Using Encryption to Enhance Confidentiality and Integrity</b>](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity)
     - <b>Section 1</b>
       - [Create and Exchange Asymmetric Encryption Keys](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#create-and-exchange-asymmetric-encryption-keys)
-      - [Encrypt a File Using Asymmetric Encryption]()
+      - [Encrypt a File Using Asymmetric Encryption](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#encrypt-a-file-using-asymmetric-encryption)
       - [Decrypt a File Using Asymmetric Encryption]()
     - <b>Section 2</b>
       - [Create an Asymmetric Key Pair](h)
