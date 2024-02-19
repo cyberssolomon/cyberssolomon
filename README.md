@@ -27,7 +27,7 @@
 
 - <b>[Performing Packet Capture and Traffic Analysis</b>](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis)
   - <b>Section 1</b>
-    - [Configure Wireshark and Generate Network Traffic]()
+    - [Configure Wireshark and Generate Network Traffic](https://github.com/cyberssolomon/Performing-Packet-Capture-and-Traffic-Analysis#configure-wireshark-and-generate-network-traffic)
     - [Analyze Traffic Using Wireshark]()
   - <b>Section 2</b>
     - [Configure Wireshark and Generate Network Traffic]()
