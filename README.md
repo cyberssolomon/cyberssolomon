@@ -78,7 +78,7 @@
       - [Apply a Windows Security Baseline](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy#apply-a-windows-security-baseline)
       - [Implement a Mobile Device Security Policy](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy#implement-a-mobile-device-security-policy)
 
-  - <b>[Implementing Security Monitoring and Logging</b>]()
+  - <b>[Implementing Security Monitoring and Logging</b>](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging)
     - <b>Section 1</b>
       - [Identify Failed Logon Attempts on Windows Systems]()
       - [Monitor Network Activity with Snort]()
