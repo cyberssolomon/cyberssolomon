@@ -86,7 +86,7 @@
       - [Identify Failed Logon Attempts on Linux Systems](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#identify-failed-logon-attempts-on-linux-systems)
       - [Monitor File Integrity with Tripwire](https://github.com/cyberssolomon/Implementing-Security-Monitoring-and-Logging#monitor-file-integrity-with-tripwire)
 
-  - <b>[Configuring Backup and Recovery Functions</b>]()
+  - <b>[Configuring Backup and Recovery Functions</b>](https://github.com/cyberssolomon/Configuring-Backup-and-Recovery-Functions)
     - <b>Section 1</b>
       - [Install Windows Server Backup]()
       - [Configure a System State Backup]()
