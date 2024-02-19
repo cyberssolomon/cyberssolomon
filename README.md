@@ -58,7 +58,7 @@
     - <b>Section 2</b>
       - [Create an Asymmetric Key Pair](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#creating-an-asymmetric-key-pair)
       - [Encrypt a File Using Symmetric Encryption](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#encrypt-a-file-using-symmetric-encryption)
-      - [Transfer and Decrypt a File Using Hybrid Cryptography]()
+      - [Transfer and Decrypt a File Using Hybrid Cryptography](https://github.com/cyberssolomon/Using-Encryption-to-Enhance-Confidentiality-and-Integrity#transfer-and-decrypt-a-file-using-hybrid-cryptology)
     - <b>Section 3</b>
       - [Digitally Sign a Document Using GPG]()
 
