@@ -106,7 +106,7 @@
       - [Prepare an Incident Response Report](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis#prepare-an-incident-response-report)
     - <b>Section 2</b>
       - [Identify Additional Email Evidence](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis#identify-additional-email-evidence)
-      - [Identify Evidence of Spyware]()
+      - [Identify Evidence of Spyware](https://github.com/cyberssolomon/Performing-Incident-Response-and-Forensic-Analysis#identify-evidence-of-spyware)
       - [Update an Incident Response Report]()
    
      
