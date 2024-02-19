@@ -9,7 +9,7 @@
   - <b>Section 2</b>
     - [Explore the WAN Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-wan-domain)
     - [Explore the Remote Access Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-remote-access-domain)
-    - [Explore the System/Application Domain]()
+    - [Explore the System/Application Domain](https://github.com/cyberssolomon/Exploring-the-Seven-Domains-of-a-Typical-IT-Infrastructure#explore-the-systemapplication-domain)
    
 - <b>[Performing a Vulnerability Assessment]()</b>
   - <b>Section 1</b>
