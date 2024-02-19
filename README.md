@@ -72,7 +72,7 @@
 
  - <b>[Implementing an IT Security Policy</b>](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy)
     - <b>Section 1</b>
-      - [Implement a Password Protection Policy]()
+      - [Implement a Password Protection Policy](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy#implement-a-password-protection-policy)
       - [Implement an Antivirus Policy]()
     - <b>Section 2</b>
       - [Apply a Windows Security Baseline]()
