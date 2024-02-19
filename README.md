@@ -21,7 +21,7 @@
     - [Conduct a Vulnerability Scan with OpenVAS](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#conduct-a-vulnerability-scan-with-openvas)
     - [Prepare a Penetration Test Report](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#prepare-a-penetration-test-report)
   - <b>Section 3</b>
-    - [Scan the Domain Controller with Nmap]()
+    - [Scan the Domain Controller with Nmap](https://github.com/cyberssolomon/Performing-a-Vulnerability-Assessment#scan-the-domain-controller-with-nmap)
     - [Scan the Domain Controller with Nessus]()
     - [Prepare a Penetration Test Report]()
 
