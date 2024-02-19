@@ -46,7 +46,7 @@
     - [Create Shared Folders and Configure ACLs](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls#create-shared-folders-and-configure-acls)
     - [Verify Access Controls](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls#verify-access-controls)
   - <b>Section 3</b>
-    - [Create Users and Security Groups]()
+    - [Create Users and Security Groups](https://github.com/cyberssolomon/Applying-User-Authentication-and-Access-Controls#create-users-and-security-groups-1)
     - [Create Shared Folders and Configure ACLs]()
     - [Verify Authentication and Access Controls]()
 
