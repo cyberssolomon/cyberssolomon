@@ -70,7 +70,7 @@
       - [Perform a Distributed Denial-of-Service Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-a-distributed-denial-of-service-attack)
       - [Perform a Social Engineering Attack](https://github.com/cyberssolomon/Assessing-Common-Attack-Vectors#perform-a-social-engineering-attack)
 
- - <b>[Implementing an IT Security Policy</b>]()
+ - <b>[Implementing an IT Security Policy</b>](https://github.com/cyberssolomon/Implementing-an-IT-Security-Policy)
     - <b>Section 1</b>
       - [Implement a Password Protection Policy]()
       - [Implement an Antivirus Policy]()
